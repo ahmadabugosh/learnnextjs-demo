@@ -13,8 +13,4 @@ const Layout = (props) => (
   </div>
 )
 
-<<<<<<< HEAD
 export default Layout
-=======
-export default Layout
->>>>>>> create-dynamic-pages
