@@ -15,4 +15,8 @@ const Header = () => (
     </div>
 )
 
+<<<<<<< HEAD
 export default Header
+=======
+export default Header
+>>>>>>> create-dynamic-pages
